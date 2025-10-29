@@ -160,8 +160,4 @@
 
 ---
 
-### 📘 লেখক
 
-**রুপম ইহসান (Rupom Ehsan)**  
-Full Stack Web Developer | Laravel, Vue.js, PHP  
-GitHub: [rupomehsan](https://github.com/rupomehsan)
